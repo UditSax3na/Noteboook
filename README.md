@@ -1,5 +1,5 @@
 # Noteboook
-Notebook for writing purposes
+Notebook for writing Notes, novel, and paragraphs purposes
 
 ## Used
 - Nextjs
